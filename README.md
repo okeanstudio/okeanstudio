@@ -34,10 +34,10 @@
 
 <div align="center">
   <!-- Карточка со статистикой (тема tokyonight отлично подходит под твой темный профиль) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=oceanstudio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Статистика GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=okeanstudio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Статистика GitHub" width="48%" />
   
   <!-- Карточка с популярными языками -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oceanstudio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Топ языков" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okeanstudio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Топ языков" width="48%" />
 </div>
 
 ---
@@ -46,6 +46,6 @@
 
 Здесь собраны мои основные репозитории. Обязательно загляни в закреплённые проекты (Pinned) на главной странице профиля!
 
-*   🧮 **[calculator-swift](https://github.com/oceanstudio/calculator-swift)** — Калькулятор с интерфейсом iOS на Swift.
-*   🔐 **[password-gen](https://github.com/oceanstudio/password-gen)** — Мини-утилита на C++17 для генерации надежных паролей с оценкой энтропии.
-*   📋 **[taskflow](https://github.com/oceanstudio/taskflow)** — Мой проект на Dart.
+*   🧮 **[calculator-swift](https://github.com/okeanstudio/calculator-swift)** — Калькулятор с интерфейсом iOS на Swift.
+*   🔐 **[password-gen](https://github.com/okeanstudio/password-gen)** — Мини-утилита на C++17 для генерации надежных паролей с оценкой энтропии.
+*   📋 **[taskflow](https://github.com/okeanstudio/taskflow)** — Мой проект на Dart.
